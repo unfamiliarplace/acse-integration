@@ -1,4 +1,4 @@
-﻿Date/Time,Max Temp (°C),Min Temp (°C),Total Rain (mm),Total Snow (cm)
+﻿Date,Max Temp (°C),Min Temp (°C),Rain (mm),Snow (cm)
 2023-01-01,4.2,2.2,2.8,0
 2023-01-02,5.1,1.9,0,0
 2023-01-03,4,0.4,4,0
