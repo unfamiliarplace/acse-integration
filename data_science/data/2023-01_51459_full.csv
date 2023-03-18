@@ -1,4 +1,4 @@
-﻿Date/Time,Max Temp (°C),Min Temp (°C),Mean Temp (°C),Total Rain (mm),Total Snow (cm),Snow on Grnd (cm),Dir of Max Gust (10s deg),Spd of Max Gust (km/h)
+﻿Date/Time,Max Temp (C),Min Temp (C),Mean Temp (C),Total Rain (mm),Total Snow (cm),Snow on Grnd (cm),Dir of Max Gust (10s deg),Spd of Max Gust (km/h)
 2023-01-01,4.2,2.2,3.2,2.8,0,,26,38
 2023-01-02,5.1,1.9,3.5,0,0,,30,31
 2023-01-03,4,0.4,2.2,4,0,,,
