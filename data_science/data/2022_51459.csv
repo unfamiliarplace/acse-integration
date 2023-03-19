@@ -1,4 +1,4 @@
-Date,Max Temp (C),Min Temp (C),Total Rain (mm),Total Snow (cm)
+Date,Max Temp (C),Min Temp (C),Rain (mm),Snow (cm)
 2022-01-01,4.5,-3.2,0.2,2.8
 2022-01-02,-2.9,-12.3,0.0,2.6
 2022-01-03,-6.6,-15.1,0.0,0.0
