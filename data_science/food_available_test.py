@@ -21,8 +21,13 @@ df_pc.set_index('Date', inplace=True)
 df_pc2 = pd.DataFrame(index=df_pc.index.get_level_values('Date').unique())
 
 for year in df_pc2.index:
+    print(df_pc2.loc[year])
+    continue
+    print(year)
+    print()
     for yr_row in df_pc.loc[year]:
         print(yr_row)
+    print()
 exit()
 
 
