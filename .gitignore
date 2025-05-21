@@ -2,7 +2,7 @@ data science notes.md
 data science notes.txt
 correlation notes.md
 
-*.DS_STORE
+*DS_STORE*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
